@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### Register number: 24900880
+### Name : Abishek Priyan M
+### STUDY_OF_BASIC_GATES
 
 **AIM:** 
 
@@ -69,9 +71,6 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: Abishek Priyan M
- 
- RegisterNumber: 24900880
  
 **Logic symbol & Truthtable**
 ![Logic gate](https://github.com/user-attachments/assets/0043c047-b485-43e7-a612-9327e288cc3e)
