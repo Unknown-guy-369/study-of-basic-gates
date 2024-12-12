@@ -1,6 +1,6 @@
-### Register number: 24900880
+### Register number : 24900880
 ### Name : Abishek Priyan M
-### STUDY_OF_BASIC_GATES
+### Experiment : STUDY OF BASIC GATES
 
 **AIM:** 
 
